@@ -28,7 +28,7 @@ const getOne = async (req, res) => {
 
 const getTop = async (req, res) => {
   try {
-    const topQuoteData = await QuoteData.find().sort({ votes: -1 }).limit(10);
+    const topQuoteData = await QuoteData.find().sort({ funny: -1 }).limit(10);
 
     if (!topQuoteData.length) {
       return res.status(404).json({ msg: 'No data found' });
