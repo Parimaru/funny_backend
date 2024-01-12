@@ -2,7 +2,7 @@
 
 #### Video Demo: https://www.youtube.com/watch?v=PEfYZ0PH5T0
 
-#### Deployed: https://github.com/Parimaru/funny_frontend/tree/main
+#### Deployed: https://subtle-bubblegum-18772e.netlify.app/
 (If you don't see a quote instantly wait some minutes, because the backend needs to wake up after inactivity)
 
 #### GitHub Fontend: https://github.com/Parimaru/funny_frontend
