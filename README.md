@@ -10,7 +10,7 @@
 
 ### Description:
 #### Concept:
-Concept:
+
 Inspired by the book "The Kangaroo Chronicles" by Marc Uwe Kling, which uses misattributed quotes and categorizes them as funny or not funny.
 
 There are three options or tabs on this homepage:
